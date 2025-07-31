@@ -1,0 +1,32 @@
+[
+  {
+    "text": "It reduces economic losses from low yields and poor quality.",
+    "icon": "/assets/images/nitrogen-icons/profitability-white.svg",
+    "hoverIcon": "/assets/images/nitrogen-icons/profitability.svg"
+  },
+  {
+    "text": "It improves the sustainable use of natural resources.",
+    "icon": "/assets/images/nitrogen-icons/sustainability-white.svg",
+    "hoverIcon": "/assets/images/nitrogen-icons/sustainability.svg"
+  },
+  {
+    "text": "It reduces pollution from nitrogen fertilizer.",
+    "icon": "/assets/images/nitrogen-icons/pollution-white.svg",
+    "hoverIcon": "/assets/images/nitrogen-icons/pollution.svg"
+  },
+  {
+    "text": "Lower costs are made available by applying a lower amount of nitrogen fertilizer while maintaining crop yield and quality..",
+    "icon": "/assets/images/nitrogen-icons/cost-white.svg",
+    "hoverIcon": "/assets/images/nitrogen-icons/cost.svg"
+  },
+  {
+    "text": "Lower environmental impacts, particularly on water quality, result from reduced leaching and less volatilization losses of nitrogen.",
+    "icon": "/assets/images/nitrogen-icons/environment-white.svg",
+    "hoverIcon": "/assets/images/nitrogen-icons/environment.svg"
+  },
+  {
+    "text": "Higher protein content in grain boosts the crop value and enhances the conversion of animal feed to consumable meat or milk.",
+    "icon": "/assets/images/nitrogen-icons/protein-white.svg",
+    "hoverIcon": "/assets/images/nitrogen-icons/protein.svg"
+  }
+]
