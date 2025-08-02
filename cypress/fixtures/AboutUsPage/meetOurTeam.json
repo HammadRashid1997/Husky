@@ -1,0 +1,60 @@
+[
+  {
+    "name": "Taylor Love",
+    "designation": "Co-Founder,President & COO",
+    "image": "https://cdn.prod.website-files.com/656d79638af0db2e4118bf54/658d3c1111381401d5472d8c_Ellipse%209.png",
+    "highlights": [
+      "Manager the day-to-day operation of Husky.",
+      "Former VP at Green Coffee Company, Largest coffee producer in colombia.",
+      "Extensive experience in agricultural production, globe supply chain Management, international trade and business development"
+    ]
+  },
+  {
+    "name": "Dr. Alveiro Salamanca",
+    "designation": "Co-Founder,Director of Research",
+    "image": "https://cdn.prod.website-files.com/656d79638af0db2e4118bf54/658d43f51815cdd2c2475a59_Ellipse%209.png",
+    "highlights": [
+      "Based in Colombia, manages Husky Latam R&D.",
+      "M.S. and Ph.D. in soil fertility & plant nutrition from UC Davis.",
+      "Led development of efficient fertilizers & balanced nutrition for ICL Group, one of the world’s largest fertilizer companies."
+    ]
+  },
+  {
+    "name": "Crawford Hawkins",
+    "designation": "Co-Founder,Chairman",
+    "image": "https://cdn.prod.website-files.com/656d79638af0db2e4118bf54/658d4392f628421e03b527e3_Ellipse%209.png",
+    "highlights": [
+      "Entrepreneur & investor in multiple software & coffee-related businesse.",
+      "Former hedge fund manager at Tiger & Elliott.",
+      "Bachelor of Science (B.S.) from the University of Virginia & Master of Business Administration (M.B.A.) from Columbia University."
+    ]
+  },
+  {
+    "name": "Marcela Urueña",
+    "designation": "Senior AdvisorColombia Partnerships",
+    "image": "https://cdn.prod.website-files.com/656d79638af0db2e4118bf54/658d43a62d7c42b4acf7104d_Ellipse%209.png",
+    "highlights": [
+      "Former Deputy Minister of Agriculture in Colombia.",
+      "Held leadership positions in the National Federation of Coffee Growers and International Coffee Organization."
+    ]
+  },
+  {
+    "name": "Joy Youwakim",
+    "designation": "Senior ScientistFormulation and R&D",
+    "image": "https://cdn.prod.website-files.com/656d79638af0db2e4118bf54/658d43bcada91f33827803ba_Ellipse%209.png",
+    "highlights": [
+      "Soil scientist and agroecologist with a background in product development and formulation optimization.",
+      "Interdisciplinary research scientist with experience conducting research projects with social science variables in mind."
+    ]
+  },
+  {
+    "name": "Dr. Janneth Escudero",
+    "designation": "Senior ScientistMicrobiology and R&D",
+    "image": "https://cdn.prod.website-files.com/656d79638af0db2e4118bf54/658d43cdc393177dadc1dfb8_Ellipse%209.png",
+    "highlights": [
+      "Doctor of Philosophy (Ph.D.) in Biotechnology and Industrial-Environmental Microbiology.",
+      "Microbiologist by training and is passionate about exploring microbial diversity.",
+      "Manages R&D from the Husky lab in Medellin."
+    ]
+  }
+]
