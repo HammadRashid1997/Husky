@@ -18,3 +18,4 @@ Husky Ag develops innovative biofertilizers from upcycled coffee by-products, 
 
 ## Approach
 - ✅ **Page Object Model (POM)** structure to keep the tests modular, reusable, and maintainable
+
